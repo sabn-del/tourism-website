@@ -1,0 +1,54 @@
+.img{
+    height:800px;
+    width:100% ;
+    background-image: url("../css/images/images.jpg");
+    border:1px solid salmon;
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
+.register{
+    height:80%;
+    width: 100%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+input[type=text]{
+    width:90%;
+    padding:12px 20px;
+}
+input[type=passwd]{
+    width:90%;
+    padding:12px 20px;
+}
+input[type=email]{
+    width:90%;
+    padding:12px 20px;
+}
+input[type=number]
+{
+    width:20%;
+    padding:8px 20px;
+
+}
+input[type=optional]{
+    
+
+    width:90%;
+    padding:12px 20px;
+
+}
+button{
+    float:left;
+    height: 40px;
+    width:70px;
+    color: cyan;
+    background-color: darkgreen;
+}
+.back{
+    height:30px;
+    width:50px;
+    border:1px solid salmon;
+    background-color: darkred;
+    color: beige;
+}
